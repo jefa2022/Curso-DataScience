@@ -1,0 +1,502 @@
+DATE;FREQUENCY;INDICATOR_ID;REGION_NAME;INDICATOR_NAME;REGION_ID;REGION_REGIONID;VALUE
+2005;Annual;KN.B3;Australia;Grey;AU;AU;2.50513129
+2005;Annual;KN.B2;Belgium;Blue;BE;BE;4.69322625
+2005;Annual;KN.B3;Burkina Faso;Grey;BF;BF;8.70630298
+2005;Annual;KN.B2;Cambodia;Blue;KH;KH;1.1006944
+2005;Annual;KN.B2;CÃ´te d'Ivoire;Blue;CI;CI;1.77653966
+2005;Annual;KN.B3;Cyprus;Grey;CY;CY;1.13217813
+2005;Annual;KN.B2;Israel;Blue;IL;IL;0.28080735
+2005;Annual;KN.B3;Jamaica;Grey;JM;JM;31.73989555
+2005;Annual;KN.B1;Kuwait;Average water footprint per unit value added;KW;KW;0.8867045
+2005;Annual;KN.B3;Luxembourg;Grey;LU;LU;0.32106129
+2005;Annual;KN.B3;Malawi;Grey;MW;MW;108.48377823
+2005;Annual;KN.B2;Poland;Blue;PL;PL;11.63380917
+2005;Annual;KN.B2;Honduras;Blue;HN;HN;2.490884
+2005;Annual;KN.B1;France;Average water footprint per unit value added;FR;FR;22.32930231
+2005;Annual;KN.B2;Nepal;Blue;NP;NP;2.77848369
+2005;Annual;KN.B3;Nicaragua;Grey;NI;NI;26.6179454
+2005;Annual;KN.B2;Rwanda;Blue;RW;RW;1.90448509
+2005;Annual;KN.B3;South Africa;Grey;ZA;ZA;6.92140801
+2005;Annual;KN.B1;United Kingdom;Average water footprint per unit value added;GB;GB;1.39963439
+2005;Annual;KN.B1;Global average;Average water footprint per unit value added;KN.A2;;42.95344062
+2005;Annual;KN.B2;Azerbaijan, Republic of;Blue;AZ;AZ;40.33485895
+2005;Annual;KN.B3;Bahrain;Grey;BH;BH;0.67743574
+2005;Annual;KN.B3;Barbados;Grey;BB;BB;114.17411553
+2005;Annual;KN.B2;Bulgaria;Blue;BG;BG;56.04093848
+2005;Annual;KN.B2;Burkina Faso;Blue;BF;BF;0.45822647
+2005;Annual;KN.B1;Egypt;Average water footprint per unit value added;EG;EG;133.09209977
+2005;Annual;KN.B3;Gabon;Grey;GA;GA;3.11830324
+2005;Annual;KN.B3;Guyana;Grey;GY;GY;65.70255565
+2005;Annual;KN.B1;India;Average water footprint per unit value added;IN;IN;266.0319143
+2005;Annual;KN.B3;Indonesia;Grey;ID;ID;5.62894044
+2005;Annual;KN.B2;Iran;Blue;IR;IR;1.16140501
+2005;Annual;KN.B1;Kazakhstan;Average water footprint per unit value added;KZ;KZ;612.20821218
+2005;Annual;KN.B1;Mali;Average water footprint per unit value added;ML;ML;77.49848936
+2005;Annual;KN.B3;Mauritius;Grey;MU;MU;10.88985798
+2005;Annual;KN.B3;Peru;Grey;PE;PE;29.72707032
+2005;Annual;KN.B3;Spain;Grey;ES;ES;0.0
+2005;Annual;KN.B1;Yemen;Average water footprint per unit value added;YE;YE;15.20612422
+2005;Annual;KN.B3;Sweden;Grey;SE;SE;3.10919866
+2005;Annual;KN.B2;Turkey;Blue;TR;TR;2.51257354
+2005;Annual;KN.B1;Burkina Faso;Average water footprint per unit value added;BF;BF;9.16452946
+2005;Annual;KN.B3;Cambodia;Grey;KH;KH;20.91319353
+2005;Annual;KN.B1;Cape Verde;Average water footprint per unit value added;CV;CV;3.78334096
+2005;Annual;KN.B2;Comoros;Blue;KM;KM;0.80305082
+2005;Annual;KN.B1;Kenya;Average water footprint per unit value added;KE;KE;42.50332491
+2005;Annual;KN.B1;Korea, Dem People's Rep;Average water footprint per unit value added;KP;KP;540.7743231
+2005;Annual;KN.B2;Kyrgyzstan;Blue;KG;KG;40.01319142
+2005;Annual;KN.B1;Luxembourg;Average water footprint per unit value added;LU;LU;0.65902054
+2005;Annual;KN.B3;Occ. Palestinian Terr.;Grey;PS;PS;82.99488986
+2005;Annual;KN.B1;Spain;Average water footprint per unit value added;ES;ES;1.69737934
+2005;Annual;KN.B2;Spain;Blue;ES;ES;1.69737934
+2005;Annual;KN.B1;Turkmenistan;Average water footprint per unit value added;TM;TM;109.65856318
+2005;Annual;KN.B1;Austria;Average water footprint per unit value added;AT;AT;2.72737117
+2005;Annual;KN.B1;CÃ´te d'Ivoire;Average water footprint per unit value added;CI;CI;35.53079312
+2005;Annual;KN.B2;Denmark;Blue;DK;DK;0.38351066
+2005;Annual;KN.B1;El Salvador;Average water footprint per unit value added;SV;SV;51.46158236
+2005;Annual;KN.B3;Ethiopia;Grey;ET;ET;19.46361327
+2005;Annual;KN.B3;Gambia;Grey;GM;GM;30.63682458
+2005;Annual;KN.B3;Georgia;Grey;GE;GE;833.03195855
+2005;Annual;KN.B1;Jordan;Average water footprint per unit value added;JO;JO;9.35610892
+2005;Annual;KN.B1;Macedonia;Average water footprint per unit value added;MK;MK;231.70195879
+2005;Annual;KN.B3;Singapore;Grey;SG;SG;0.00307396
+2005;Annual;KN.B1;Sri Lanka;Average water footprint per unit value added;LK;LK;65.17695281
+2005;Annual;KN.B1;Togo;Average water footprint per unit value added;TG;TG;14.43459002
+2005;Annual;KN.B1;Ukraine;Average water footprint per unit value added;UA;UA;885.34000486
+2005;Annual;KN.B2;Libyan Arab Jamahiriya;Blue;LY;LY;0.33269822
+2005;Annual;KN.B3;Mongolia;Grey;MN;MN;370.27956201
+2005;Annual;KN.B3;Nigeria;Grey;NG;NG;34.88176975
+2005;Annual;KN.B2;Oman;Blue;OM;OM;0.08674771
+2005;Annual;KN.B1;Paraguay;Average water footprint per unit value added;PY;PY;21.36042305
+2005;Annual;KN.B2;South Africa;Blue;ZA;ZA;0.84717356
+2005;Annual;KN.B3;Swaziland;Grey;SZ;SZ;17.66618627
+2005;Annual;KN.B3;United Arab Emirates;Grey;AE;AE;1.65202779
+2005;Annual;KN.B3;Uruguay;Grey;UY;UY;8.42019415
+2005;Annual;KN.B3;Global average;Grey;KN.A2;;38.92563392
+2005;Annual;KN.B3;Guatemala;Grey;GT;GT;32.30547847
+2005;Annual;KN.B3;Antigua and Barbuda;Grey;AG;AG;8.03410344
+2005;Annual;KN.B1;Brazil;Average water footprint per unit value added;BR;BR;48.7599152
+2005;Annual;KN.B3;Bulgaria;Grey;BG;BG;617.57114209
+2005;Annual;KN.B2;Colombia;Blue;CO;CO;0.66460654
+2005;Annual;KN.B1;Congo, Dem Republic of;Average water footprint per unit value added;CD;CD;47.03993131
+2005;Annual;KN.B3;Congo, Dem Republic of;Grey;CD;CD;44.68793474
+2005;Annual;KN.B2;Ecuador;Blue;EC;EC;6.27279263
+2005;Annual;KN.B1;Mozambique;Average water footprint per unit value added;MZ;MZ;10.43103798
+2005;Annual;KN.B3;Myanmar;Grey;MM;MM;160.38159321
+2005;Annual;KN.B1;Qatar;Average water footprint per unit value added;QA;QA;0.59491219
+2005;Annual;KN.B3;Thailand;Grey;TH;TH;44.46883724
+2005;Annual;KN.B2;Guyana;Blue;GY;GY;3.45802925
+2005;Annual;KN.B3;Korea, Dem People's Rep;Grey;KP;KP;513.73560694
+2005;Annual;KN.B3;Madagascar;Grey;MG;MG;337.21717881
+2005;Annual;KN.B3;Mexico;Grey;MX;MX;12.82655583
+2005;Annual;KN.B2;Moldova, Republic of;Blue;MD;MD;169.38749541
+2005;Annual;KN.B2;Switzerland;Blue;CH;CH;1.23431259
+2005;Annual;KN.B2;Togo;Blue;TG;TG;0.7217295
+2005;Annual;KN.B2;Venezuela;Blue;VE;VE;0.61488023
+2005;Annual;KN.B1;Bolivia;Average water footprint per unit value added;BO;BO;31.87890369
+2005;Annual;KN.B3;Kazakhstan;Grey;KZ;KZ;581.59780157
+2005;Annual;KN.B1;Korea, Republic of;Average water footprint per unit value added;KR;KR;3.92906232
+2005;Annual;KN.B1;Nepal;Average water footprint per unit value added;NP;NP;55.56967377
+2005;Annual;KN.B1;Nigeria;Average water footprint per unit value added;NG;NG;36.71765237
+2005;Annual;KN.B1;Occ. Palestinian Terr.;Average water footprint per unit value added;PS;PS;87.36304196
+2005;Annual;KN.B1;Saudi Arabia;Average water footprint per unit value added;SA;SA;6.71203036
+2005;Annual;KN.B2;Somalia;Blue;SO;SO;0.67438149
+2005;Annual;KN.B3;Tanzania;Grey;TZ;TZ;11.80347827
+2005;Annual;KN.B3;Turkmenistan;Grey;TM;TM;104.17563502
+2005;Annual;KN.B1;Guyana;Average water footprint per unit value added;GY;GY;69.1605849
+2005;Annual;KN.B2;Belarus;Blue;BY;BY;11.47473531
+2005;Annual;KN.B2;Costa Rica;Blue;CR;CR;5.2620536
+2005;Annual;KN.B2;Lebanon;Blue;LB;LB;1.95641383
+2005;Annual;KN.B1;Norway;Average water footprint per unit value added;NO;NO;5.72827384
+2005;Annual;KN.B3;Panama;Grey;PA;PA;8.46501129
+2005;Annual;KN.B3;Portugal;Grey;PT;PT;13.18362361
+2005;Annual;KN.B1;Syrian Arab Republic;Average water footprint per unit value added;SY;SY;90.95536575
+2005;Annual;KN.B2;Uganda;Blue;UG;UG;1.63298274
+2005;Annual;KN.B3;Venezuela;Grey;VE;VE;11.68272435
+2005;Annual;KN.B2;Yemen;Blue;YE;YE;0.78491324
+2005;Annual;KN.B1;Switzerland;Average water footprint per unit value added;CH;CH;1.93787077
+2005;Annual;KN.B1;Uganda;Average water footprint per unit value added;UG;UG;32.65965472
+2005;Annual;KN.B1;Venezuela;Average water footprint per unit value added;VE;VE;12.29760458
+2005;Annual;KN.B1;Canada;Average water footprint per unit value added;CA;CA;44.83428893
+2005;Annual;KN.B2;Cape Verde;Blue;CV;CV;0.18916705
+2005;Annual;KN.B3;China;Grey;CN;CN;125.98302711
+2005;Annual;KN.B3;Colombia;Grey;CO;CO;12.62752427
+2005;Annual;KN.B3;France;Grey;FR;FR;17.67736433
+2005;Annual;KN.B2;Iceland;Blue;IS;IS;2.3604667
+2005;Annual;KN.B2;Jamaica;Blue;JM;JM;1.67052082
+2005;Annual;KN.B2;Kazakhstan;Blue;KZ;KZ;30.61041061
+2005;Annual;KN.B3;Laos;Grey;LA;LA;565.46435309
+2005;Annual;KN.B3;Nepal;Grey;NP;NP;52.79119008
+2005;Annual;KN.B3;Qatar;Grey;QA;QA;0.56516658
+2005;Annual;KN.B1;Russian Federation;Average water footprint per unit value added;RU;RU;304.33441734
+2005;Annual;KN.B1;Seychelles;Average water footprint per unit value added;SC;SC;32.93283495
+2005;Annual;KN.B3;Slovakia;Grey;SK;SK;28.52724139
+2005;Annual;KN.B2;Myanmar;Blue;MM;MM;8.44113649
+2005;Annual;KN.B2;Qatar;Blue;QA;QA;0.02974561
+2005;Annual;KN.B1;Rwanda;Average water footprint per unit value added;RW;RW;38.08970173
+2005;Annual;KN.B2;Syrian Arab Republic;Blue;SY;SY;5.02515833
+2005;Annual;KN.B2;Trinidad and Tobago;Blue;TT;TT;0.9472895
+2005;Annual;KN.B1;Albania;Average water footprint per unit value added;AL;AL;234.96621555
+2005;Annual;KN.B1;Algeria;Average water footprint per unit value added;DZ;DZ;14.01377057
+2005;Annual;KN.B2;Armenia;Blue;AM;AM;7.00523851
+2005;Annual;KN.B1;Australia;Average water footprint per unit value added;AU;AU;3.51935448
+2005;Annual;KN.B3;Azerbaijan, Republic of;Grey;AZ;AZ;536.45362408
+2005;Annual;KN.B3;Belarus;Grey;BY;BY;11.11901852
+2005;Annual;KN.B1;Cameroon;Average water footprint per unit value added;CM;CM;24.02186751
+2005;Annual;KN.B1;Chile;Average water footprint per unit value added;CL;CL;23.69249014
+2005;Annual;KN.B1;Cuba;Average water footprint per unit value added;CU;CU;101.90132969
+2005;Annual;KN.B2;Indonesia;Blue;ID;ID;0.30479426
+2005;Annual;KN.B2;Jordan;Blue;JO;JO;0.92451669
+2005;Annual;KN.B1;Laos;Average water footprint per unit value added;LA;LA;595.22563483
+2005;Annual;KN.B2;Liberia;Blue;LR;LR;42.91771815
+2005;Annual;KN.B3;Mali;Grey;ML;ML;73.62356489
+2005;Annual;KN.B1;Oman;Average water footprint per unit value added;OM;OM;1.7349541
+2005;Annual;KN.B2;Suriname;Blue;SR;SR;3.25265115
+2005;Annual;KN.B1;Argentina;Average water footprint per unit value added;AR;AR;26.0222264
+2005;Annual;KN.B1;Guatemala;Average water footprint per unit value added;GT;GT;35.08827444
+2005;Annual;KN.B1;Armenia;Average water footprint per unit value added;AM;AM;94.58473033
+2005;Annual;KN.B1;Bhutan;Average water footprint per unit value added;BT;BT;27.54129807
+2005;Annual;KN.B1;Botswana;Average water footprint per unit value added;BW;BW;11.04924472
+2005;Annual;KN.B3;Comoros;Grey;KM;KM;15.25796557
+2005;Annual;KN.B2;Cuba;Blue;CU;CU;8.06947495
+2005;Annual;KN.B1;Ethiopia;Average water footprint per unit value added;ET;ET;20.48801397
+2005;Annual;KN.B2;Nicaragua;Blue;NI;NI;1.4009445
+2005;Annual;KN.B2;Tajikistan;Blue;TJ;TJ;69.17595969
+2005;Annual;KN.B1;Tanzania;Average water footprint per unit value added;TZ;TZ;12.42471397
+2005;Annual;KN.B3;Kyrgyzstan;Grey;KG;KG;554.982965
+2005;Annual;KN.B1;Morocco;Average water footprint per unit value added;MA;MA;7.85778392
+2005;Annual;KN.B3;Namibia;Grey;NA;NA;11.1074549
+2005;Annual;KN.B1;Papua New Guinea;Average water footprint per unit value added;PG;PG;20.62515838
+2005;Annual;KN.B3;Philippines;Grey;PH;PH;280.23791544
+2005;Annual;KN.B1;Poland;Average water footprint per unit value added;PL;PL;95.62991135
+2005;Annual;KN.B2;Slovenia;Blue;SI;SI;4.8635518
+2005;Annual;KN.B3;Turkey;Grey;TR;TR;27.6885604
+2005;Annual;KN.B3;United Kingdom;Grey;GB;GB;0.45072972
+2005;Annual;KN.B2;Zimbabwe;Blue;ZW;ZW;13.82100252
+2005;Annual;KN.B2;Haiti;Blue;HT;HT;0.71077592
+2005;Annual;KN.B3;Korea, Republic of;Grey;KR;KR;3.1476259
+2005;Annual;KN.B2;Angola;Blue;AO;AO;0.41903393
+2005;Annual;KN.B2;Barbados;Blue;BB;BB;6.00916398
+2005;Annual;KN.B2;Burundi;Blue;BI;BI;6.86072026
+2005;Annual;KN.B3;Croatia;Grey;HR;HR;6.03897027
+2005;Annual;KN.B1;Equatorial Guinea;Average water footprint per unit value added;GQ;GQ;8.90800343
+2005;Annual;KN.B3;Eritrea;Grey;ER;ER;5.4345449
+2005;Annual;KN.B3;Finland;Grey;FI;FI;9.17083275
+2005;Annual;KN.B2;Kuwait;Blue;KW;KW;0.04433522
+2005;Annual;KN.B2;Laos;Blue;LA;LA;29.76128174
+2005;Annual;KN.B3;Paraguay;Grey;PY;PY;20.1190432
+2005;Annual;KN.B3;Rwanda;Grey;RW;RW;36.18521664
+2005;Annual;KN.B2;Slovakia;Blue;SK;SK;3.49170641
+2005;Annual;KN.B2;Ireland;Blue;IE;IE;1.04900006
+2005;Annual;KN.B2;Malaysia;Blue;MY;MY;2.02372748
+2005;Annual;KN.B3;Maldives;Grey;MV;MV;0.0
+2005;Annual;KN.B2;Malta;Blue;MT;MT;0.02569834
+2005;Annual;KN.B3;Albania;Grey;AL;AL;223.21790477
+2005;Annual;KN.B2;Algeria;Blue;DZ;DZ;1.28803038
+2005;Annual;KN.B3;Brazil;Grey;BR;BR;45.52220502
+2005;Annual;KN.B1;Colombia;Average water footprint per unit value added;CO;CO;13.29213081
+2005;Annual;KN.B3;Ireland;Grey;IE;IE;3.18896018
+2005;Annual;KN.B2;Occ. Palestinian Terr.;Blue;PS;PS;4.3681521
+2005;Annual;KN.B3;Seychelles;Grey;SC;SC;31.2861932
+2005;Annual;KN.B2;Sudan;Blue;SD;SD;4.03953916
+2005;Annual;KN.B1;Uzbekistan;Average water footprint per unit value added;UZ;UZ;414.17608572
+2005;Annual;KN.B1;Costa Rica;Average water footprint per unit value added;CR;CR;102.84157553
+2005;Annual;KN.B1;Honduras;Average water footprint per unit value added;HN;HN;49.81768
+2005;Annual;KN.B3;Japan;Grey;JP;JP;3.59409633
+2005;Annual;KN.B2;Madagascar;Blue;MG;MG;17.74827257
+2005;Annual;KN.B3;Sierra Leone;Grey;SL;SL;42.357239
+2005;Annual;KN.B3;Suriname;Grey;SR;SR;61.80037193
+2005;Annual;KN.B1;Zambia;Average water footprint per unit value added;ZM;ZM;122.36699976
+2005;Annual;KN.B2;Antigua and Barbuda;Blue;AG;AG;0.42284755
+2005;Annual;KN.B3;Belgium;Grey;BE;BE;35.66851951
+2005;Annual;KN.B2;Botswana;Blue;BW;BW;0.55246224
+2005;Annual;KN.B2;Cameroon;Blue;CM;CM;1.20109338
+2005;Annual;KN.B3;Canada;Grey;CA;CA;37.80366498
+2005;Annual;KN.B3;Estonia;Grey;EE;EE;7.36765107
+2005;Annual;KN.B2;Finland;Blue;FI;FI;2.54039688
+2005;Annual;KN.B1;Germany;Average water footprint per unit value added;DE;DE;5.56401683
+2005;Annual;KN.B1;Iran;Average water footprint per unit value added;IR;IR;23.22810021
+2005;Annual;KN.B1;Iraq;Average water footprint per unit value added;IQ;IQ;570.38943845
+2005;Annual;KN.B1;Israel;Average water footprint per unit value added;IL;IL;0.86769471
+2005;Annual;KN.B1;Malta;Average water footprint per unit value added;MT;MT;0.45049184
+2005;Annual;KN.B2;Mexico;Blue;MX;MX;1.03858752
+2005;Annual;KN.B3;New Zealand;Grey;NZ;NZ;2.29130112
+2005;Annual;KN.B3;Papua New Guinea;Grey;PG;PG;19.59390046
+2005;Annual;KN.B3;Poland;Grey;PL;PL;83.99610218
+2005;Annual;KN.B2;Serbia and Montenegro;Blue;KN.A1;;124.18503602
+2005;Annual;KN.B1;Mongolia;Average water footprint per unit value added;MN;MN;389.76796002
+2005;Annual;KN.B3;Oman;Grey;OM;OM;1.6482064
+2005;Annual;KN.B2;Papua New Guinea;Blue;PG;PG;1.03125792
+2005;Annual;KN.B1;Philippines;Average water footprint per unit value added;PH;PH;294.98727941
+2005;Annual;KN.B1;Romania;Average water footprint per unit value added;RO;RO;255.02688416
+2005;Annual;KN.B1;Bangladesh;Average water footprint per unit value added;BD;BD;28.0092547
+2005;Annual;KN.B2;Belize;Blue;BZ;BZ;38.83729466
+2005;Annual;KN.B2;Bolivia;Blue;BO;BO;2.28702946
+2005;Annual;KN.B3;Cameroon;Grey;CM;CM;22.82077413
+2005;Annual;KN.B1;Congo, Republic of;Average water footprint per unit value added;CG;CG;4.95702746
+2005;Annual;KN.B1;Croatia;Average water footprint per unit value added;HR;HR;6.4835025
+2005;Annual;KN.B2;Czech Republic;Blue;CZ;CZ;2.79013256
+2005;Annual;KN.B1;Ecuador;Average water footprint per unit value added;EC;EC;125.45585255
+2005;Annual;KN.B2;Estonia;Blue;EE;EE;1.55108444
+2005;Annual;KN.B3;Lebanon;Grey;LB;LB;12.11802727
+2005;Annual;KN.B2;Lesotho;Blue;LS;LS;4.13142486
+2005;Annual;KN.B1;Mauritius;Average water footprint per unit value added;MU;MU;11.65405854
+2005;Annual;KN.B2;Mozambique;Blue;MZ;MZ;0.5215519
+2005;Annual;KN.B1;Uruguay;Average water footprint per unit value added;UY;UY;8.86336226
+2005;Annual;KN.B1;Bahrain;Average water footprint per unit value added;BH;BH;0.97455667
+2005;Annual;KN.B2;Georgia;Blue;GE;GE;43.84378729
+2005;Annual;KN.B3;Benin;Grey;BJ;BJ;73.55207777
+2005;Annual;KN.B2;Croatia;Blue;HR;HR;0.44453222
+2005;Annual;KN.B2;Egypt;Blue;EG;EG;6.65460499
+2005;Annual;KN.B1;Georgia;Average water footprint per unit value added;GE;GE;876.87574585
+2005;Annual;KN.B2;Germany;Blue;DE;DE;2.60000787
+2005;Annual;KN.B1;Ghana;Average water footprint per unit value added;GH;GH;52.12360554
+2005;Annual;KN.B1;Hungary;Average water footprint per unit value added;HU;HU;106.0328797
+2005;Annual;KN.B3;Libyan Arab Jamahiriya;Grey;LY;LY;6.32126619
+2005;Annual;KN.B2;Lithuania;Blue;LT;LT;0.49078214
+2005;Annual;KN.B2;Mauritius;Blue;MU;MU;0.76420056
+2005;Annual;KN.B2;Nigeria;Blue;NG;NG;1.83588262
+2005;Annual;KN.B1;Pakistan;Average water footprint per unit value added;PK;PK;168.08600522
+2005;Annual;KN.B3;Romania;Grey;RO;RO;237.65448061
+2005;Annual;KN.B2;Saudi Arabia;Blue;SA;SA;0.33560152
+2005;Annual;KN.B1;Sweden;Average water footprint per unit value added;SE;SE;4.27807033
+2005;Annual;KN.B3;Syrian Arab Republic;Grey;SY;SY;85.93020742
+2005;Annual;KN.B2;Turkmenistan;Blue;TM;TM;5.48292816
+2005;Annual;KN.B1;Greece;Average water footprint per unit value added;GR;GR;1.62015745
+2005;Annual;KN.B2;Japan;Blue;JP;JP;0.57322111
+2005;Annual;KN.B1;Belize;Average water footprint per unit value added;BZ;BZ;665.3216949
+2005;Annual;KN.B1;Bulgaria;Average water footprint per unit value added;BG;BG;673.61208058
+2005;Annual;KN.B3;CÃ´te d'Ivoire;Grey;CI;CI;33.75425346
+2005;Annual;KN.B3;El Salvador;Grey;SV;SV;48.88850324
+2005;Annual;KN.B3;Equatorial Guinea;Grey;GQ;GQ;8.46260326
+2005;Annual;KN.B1;Eritrea;Average water footprint per unit value added;ER;ER;5.72057358
+2005;Annual;KN.B3;Germany;Grey;DE;DE;2.96400897
+2005;Annual;KN.B3;Greece;Grey;GR;GR;1.19933733
+2005;Annual;KN.B1;Italy;Average water footprint per unit value added;IT;IT;16.68045539
+2005;Annual;KN.B1;Lebanon;Average water footprint per unit value added;LB;LB;14.0744411
+2005;Annual;KN.B2;Macedonia;Blue;MK;MK;12.16283248
+2005;Annual;KN.B1;Slovenia;Average water footprint per unit value added;SI;SI;50.1432191
+2005;Annual;KN.B2;Viet Nam;Blue;VN;VN;67.48058628
+2005;Annual;KN.B2;Zambia;Blue;ZM;ZM;6.11834999
+2005;Annual;KN.B3;Guinea-Bissau;Grey;GW;GW;251.96354321
+2005;Annual;KN.B2;Iraq;Blue;IQ;IQ;37.73165565
+2005;Annual;KN.B3;Malta;Grey;MT;MT;0.4247935
+2005;Annual;KN.B3;Niger;Grey;NE;NE;35.36433052
+2005;Annual;KN.B2;Seychelles;Blue;SC;SC;1.64664175
+2005;Annual;KN.B1;Singapore;Average water footprint per unit value added;SG;SG;0.16486106
+2005;Annual;KN.B1;United States of America;Average water footprint per unit value added;US;US;31.41774024
+2005;Annual;KN.B2;Albania;Blue;AL;AL;11.74831078
+2005;Annual;KN.B2;Bangladesh;Blue;BD;BD;1.40046274
+2005;Annual;KN.B3;Dominican Republic;Grey;DO;DO;6.93132058
+2005;Annual;KN.B1;Estonia;Average water footprint per unit value added;EE;EE;8.91873551
+2005;Annual;KN.B1;Lesotho;Average water footprint per unit value added;LS;LS;82.62849721
+2005;Annual;KN.B2;Mauritania;Blue;MR;MR;7.30526903
+2005;Annual;KN.B2;Netherlands;Blue;NL;NL;2.33417816
+2005;Annual;KN.B2;Ukraine;Blue;UA;UA;44.26700024
+2005;Annual;KN.B2;Uruguay;Blue;UY;UY;0.44316811
+2005;Annual;KN.B3;Viet Nam;Grey;VN;VN;1282.13113939
+2005;Annual;KN.B3;Zimbabwe;Grey;ZW;ZW;262.59904781
+2005;Annual;KN.B1;Cambodia;Average water footprint per unit value added;KH;KH;22.01388792
+2005;Annual;KN.B3;Congo, Republic of;Grey;CG;CG;4.70917609
+2005;Annual;KN.B1;Denmark;Average water footprint per unit value added;DK;DK;1.26520166
+2005;Annual;KN.B3;Israel;Grey;IL;IL;0.58688736
+2005;Annual;KN.B2;Kenya;Blue;KE;KE;2.22892259
+2005;Annual;KN.B2;Korea, Republic of;Blue;KR;KR;0.78143642
+2005;Annual;KN.B3;Mozambique;Grey;MZ;MZ;9.90948608
+2005;Annual;KN.B3;Sudan;Grey;SD;SD;76.75124401
+2005;Annual;KN.B1;Turkey;Average water footprint per unit value added;TR;TR;30.20113394
+2005;Annual;KN.B3;Tajikistan;Grey;TJ;TJ;1314.34323403
+2005;Annual;KN.B3;Trinidad and Tobago;Grey;TT;TT;13.46287834
+2005;Annual;KN.B1;United Arab Emirates;Average water footprint per unit value added;AE;AE;1.73897662
+2005;Annual;KN.B3;Algeria;Grey;DZ;DZ;12.72574019
+2005;Annual;KN.B1;Antigua and Barbuda;Average water footprint per unit value added;AG;AG;8.45695099
+2005;Annual;KN.B1;Belarus;Average water footprint per unit value added;BY;BY;22.59375383
+2005;Annual;KN.B2;Chile;Blue;CL;CL;5.40677548
+2005;Annual;KN.B1;China;Average water footprint per unit value added;CN;CN;135.80626509
+2005;Annual;KN.B1;Comoros;Average water footprint per unit value added;KM;KM;16.06101639
+2005;Annual;KN.B2;Equatorial Guinea;Blue;GQ;GQ;0.44540017
+2005;Annual;KN.B2;Fiji;Blue;FJ;FJ;1.20327739
+2005;Annual;KN.B3;Fiji;Grey;FJ;FJ;22.86227049
+2005;Annual;KN.B2;France;Blue;FR;FR;4.65193798
+2005;Annual;KN.B2;India;Blue;IN;IN;13.30159571
+2005;Annual;KN.B3;India;Grey;IN;IN;252.73031858
+2005;Annual;KN.B2;Korea, Dem People's Rep;Blue;KP;KP;27.03871615
+2005;Annual;KN.B2;Latvia;Blue;LV;LV;2.54662066
+2005;Annual;KN.B1;Libyan Arab Jamahiriya;Average water footprint per unit value added;LY;LY;6.65396441
+2005;Annual;KN.B2;New Zealand;Blue;NZ;NZ;0.60297398
+2005;Annual;KN.B2;Sri Lanka;Blue;LK;LK;3.25884764
+2005;Annual;KN.B2;Sweden;Blue;SE;SE;1.16887168
+2005;Annual;KN.B2;Uzbekistan;Blue;UZ;UZ;20.70880429
+2005;Annual;KN.B2;Pakistan;Blue;PK;PK;8.40430026
+2005;Annual;KN.B1;Peru;Average water footprint per unit value added;PE;PE;35.74469589
+2005;Annual;KN.B1;Portugal;Average water footprint per unit value added;PT;PT;15.35198275
+2005;Annual;KN.B3;Russian Federation;Grey;RU;RU;289.11769647
+2005;Annual;KN.B2;Thailand;Blue;TH;TH;2.34046512
+2005;Annual;KN.B3;Tunisia;Grey;TN;TN;7.90613284
+2005;Annual;KN.B1;Afghanistan;Average water footprint per unit value added;AF;AF;1.23886628
+2005;Annual;KN.B2;Bahrain;Blue;BH;BH;0.29712094
+2005;Annual;KN.B3;Bolivia;Grey;BO;BO;29.59187422
+2005;Annual;KN.B3;Cape Verde;Grey;CV;CV;3.59417391
+2005;Annual;KN.B1;Central African Republic;Average water footprint per unit value added;CF;CF;23.30667819
+2005;Annual;KN.B3;Costa Rica;Grey;CR;CR;97.57952193
+2005;Annual;KN.B3;Iraq;Grey;IQ;IQ;532.6577828
+2005;Annual;KN.B3;Kuwait;Grey;KW;KW;0.84236927
+2005;Annual;KN.B1;Lithuania;Average water footprint per unit value added;LT;LT;3.28824035
+2005;Annual;KN.B3;Mauritania;Grey;MR;MR;138.80011147
+2005;Annual;KN.B1;Mexico;Average water footprint per unit value added;MX;MX;13.86514334
+2005;Annual;KN.B2;Mongolia;Blue;MN;MN;19.488398
+2005;Annual;KN.B2;Norway;Blue;NO;NO;1.10584437
+2005;Annual;KN.B3;Norway;Grey;NO;NO;4.62242947
+2005;Annual;KN.B3;Somalia;Grey;SO;SO;12.81324839
+2005;Annual;KN.B1;South Africa;Average water footprint per unit value added;ZA;ZA;7.76858157
+2005;Annual;KN.B3;Belize;Grey;BZ;BZ;626.48440024
+2005;Annual;KN.B1;Benin;Average water footprint per unit value added;BJ;BJ;77.42323976
+2005;Annual;KN.B1;Gambia;Average water footprint per unit value added;GM;GM;32.24928903
+2005;Annual;KN.B2;Guinea;Blue;GN;GN;1.46167264
+2005;Annual;KN.B2;Australia;Blue;AU;AU;1.01422319
+2005;Annual;KN.B3;Chile;Grey;CL;CL;18.28571467
+2005;Annual;KN.B1;Dominican Republic;Average water footprint per unit value added;DO;DO;7.34587324
+2005;Annual;KN.B3;Egypt;Grey;EG;EG;126.43749478
+2005;Annual;KN.B1;Fiji;Average water footprint per unit value added;FJ;FJ;24.06554788
+2005;Annual;KN.B1;Finland;Average water footprint per unit value added;FI;FI;11.71122963
+2005;Annual;KN.B3;Lithuania;Grey;LT;LT;2.79745821
+2005;Annual;KN.B3;Macedonia;Grey;MK;MK;219.5391263
+2005;Annual;KN.B1;Maldives;Average water footprint per unit value added;MV;MV;0.03419602
+2005;Annual;KN.B3;Moldova, Republic of;Grey;MD;MD;1287.34496509
+2005;Annual;KN.B1;Namibia;Average water footprint per unit value added;NA;NA;11.69205779
+2005;Annual;KN.B2;Paraguay;Blue;PY;PY;1.24137985
+2005;Annual;KN.B3;United States of America;Grey;US;US;26.53465969
+2005;Annual;KN.B1;Indonesia;Average water footprint per unit value added;ID;ID;5.9337347
+2005;Annual;KN.B1;Angola;Average water footprint per unit value added;AO;AO;8.38067863
+2005;Annual;KN.B3;Angola;Grey;AO;AO;7.9616447
+2005;Annual;KN.B1;Barbados;Average water footprint per unit value added;BB;BB;120.1832795
+2005;Annual;KN.B1;Burundi;Average water footprint per unit value added;BI;BI;137.2144052
+2005;Annual;KN.B3;Burundi;Grey;BI;BI;130.35368494
+2005;Annual;KN.B2;Central African Republic;Blue;CF;CF;1.16533391
+2005;Annual;KN.B3;Ecuador;Grey;EC;EC;119.18305992
+2005;Annual;KN.B2;Ethiopia;Blue;ET;ET;1.0244007
+2005;Annual;KN.B2;Gambia;Blue;GM;GM;1.61246445
+2005;Annual;KN.B1;Guinea;Average water footprint per unit value added;GN;GN;26.45627483
+2005;Annual;KN.B3;Guinea;Grey;GN;GN;24.99460219
+2005;Annual;KN.B1;Haiti;Average water footprint per unit value added;HT;HT;14.21551846
+2005;Annual;KN.B3;Hungary;Grey;HU;HU;93.1335026
+2005;Annual;KN.B3;Liberia;Grey;LR;LR;815.43664486
+2005;Annual;KN.B3;Morocco;Grey;MA;MA;6.2207456
+2005;Annual;KN.B2;Namibia;Blue;NA;NA;0.58460289
+2005;Annual;KN.B2;Portugal;Blue;PT;PT;2.16835915
+2005;Annual;KN.B2;Romania;Blue;RO;RO;17.37240355
+2005;Annual;KN.B3;Saudi Arabia;Grey;SA;SA;6.37642884
+2005;Annual;KN.B3;Serbia and Montenegro;Grey;KN.A1;;2359.51568444
+2005;Annual;KN.B3;Yemen;Grey;YE;YE;14.42121098
+2005;Annual;KN.B3;Iceland;Grey;IS;IS;19.28501296
+2005;Annual;KN.B3;Netherlands;Grey;NL;NL;0.44349385
+2005;Annual;KN.B3;Slovenia;Grey;SI;SI;45.27966729
+2005;Annual;KN.B1;Swaziland;Average water footprint per unit value added;SZ;SZ;18.59598554
+2005;Annual;KN.B2;Swaziland;Blue;SZ;SZ;0.92979928
+2005;Annual;KN.B2;Tanzania;Blue;TZ;TZ;0.6212357
+2005;Annual;KN.B3;Armenia;Grey;AM;AM;87.57949183
+2005;Annual;KN.B3;Italy;Grey;IT;IT;14.25948944
+2005;Annual;KN.B2;Mali;Blue;ML;ML;3.87492447
+2005;Annual;KN.B2;Morocco;Blue;MA;MA;1.63703832
+2005;Annual;KN.B1;Niger;Average water footprint per unit value added;NE;NE;37.22561107
+2005;Annual;KN.B3;Switzerland;Grey;CH;CH;0.70355818
+2005;Annual;KN.B1;Thailand;Average water footprint per unit value added;TH;TH;46.80930235
+2005;Annual;KN.B3;Togo;Grey;TG;TG;13.71286052
+2005;Annual;KN.B2;Global average;Blue;KN.A2;;4.0278067
+2005;Annual;KN.B2;El Salvador;Blue;SV;SV;2.57307912
+2005;Annual;KN.B2;Greece;Blue;GR;GR;0.42082012
+2005;Annual;KN.B3;Argentina;Grey;AR;AR;23.84006905
+2005;Annual;KN.B2;Austria;Blue;AT;AT;1.08229015
+2005;Annual;KN.B3;Central African Republic;Grey;CF;CF;22.14134428
+2005;Annual;KN.B3;Cuba;Grey;CU;CU;93.83185474
+2005;Annual;KN.B3;Iran;Grey;IR;IR;22.0666952
+2005;Annual;KN.B1;Jamaica;Average water footprint per unit value added;JM;JM;33.41041637
+2005;Annual;KN.B3;Malaysia;Grey;MY;MY;38.45082217
+2005;Annual;KN.B1;Mauritania;Average water footprint per unit value added;MR;MR;146.10538049
+2005;Annual;KN.B1;Moldova, Republic of;Average water footprint per unit value added;MD;MD;1456.7324605
+2005;Annual;KN.B2;Niger;Blue;NE;NE;1.86128055
+2005;Annual;KN.B2;Peru;Blue;PE;PE;6.01762557
+2005;Annual;KN.B1;Serbia and Montenegro;Average water footprint per unit value added;KN.A1;;2483.70072046
+2005;Annual;KN.B1;Sierra Leone;Average water footprint per unit value added;SL;SL;44.58656737
+2005;Annual;KN.B1;Tunisia;Average water footprint per unit value added;TN;TN;8.76943627
+2005;Annual;KN.B3;Uganda;Grey;UG;UG;31.02667198
+2005;Annual;KN.B1;Viet Nam;Average water footprint per unit value added;VN;VN;1349.61172567
+2005;Annual;KN.B3;Zambia;Grey;ZM;ZM;116.24864977
+2005;Annual;KN.B2;Argentina;Blue;AR;AR;2.18215735
+2005;Annual;KN.B1;Belgium;Average water footprint per unit value added;BE;BE;40.36174576
+2005;Annual;KN.B2;Benin;Blue;BJ;BJ;3.87116199
+2005;Annual;KN.B2;Cyprus;Blue;CY;CY;0.08512618
+2005;Annual;KN.B3;Czech Republic;Grey;CZ;CZ;11.66275409
+2005;Annual;KN.B1;Gabon;Average water footprint per unit value added;GA;GA;3.28242446
+2005;Annual;KN.B3;Ghana;Grey;GH;GH;49.51742527
+2005;Annual;KN.B2;Guinea-Bissau;Blue;GW;GW;13.26123912
+2005;Annual;KN.B3;Jordan;Grey;JO;JO;8.43159223
+2005;Annual;KN.B3;Latvia;Grey;LV;LV;15.96731152
+2005;Annual;KN.B1;Madagascar;Average water footprint per unit value added;MG;MG;354.96545138
+2005;Annual;KN.B1;Malaysia;Average water footprint per unit value added;MY;MY;40.47454966
+2005;Annual;KN.B3;Senegal;Grey;SN;SN;34.1633898
+2005;Annual;KN.B1;Panama;Average water footprint per unit value added;PA;PA;9.45507109
+2005;Annual;KN.B1;Senegal;Average water footprint per unit value added;SN;SN;36.49854973
+2005;Annual;KN.B2;Senegal;Blue;SN;SN;2.33515993
+2005;Annual;KN.B1;Azerbaijan, Republic of;Average water footprint per unit value added;AZ;AZ;576.78848304
+2005;Annual;KN.B3;Bangladesh;Grey;BD;BD;26.60879197
+2005;Annual;KN.B2;Bhutan;Blue;BT;BT;1.3770649
+2005;Annual;KN.B2;Canada;Blue;CA;CA;7.03062395
+2005;Annual;KN.B2;Congo, Republic of;Blue;CG;CG;0.24785137
+2005;Annual;KN.B3;Denmark;Grey;DK;DK;0.881691
+2005;Annual;KN.B2;Gabon;Blue;GA;GA;0.16412122
+2005;Annual;KN.B2;Ghana;Blue;GH;GH;2.60618028
+2005;Annual;KN.B1;Guinea-Bissau;Average water footprint per unit value added;GW;GW;265.22478232
+2005;Annual;KN.B3;Haiti;Grey;HT;HT;13.50474254
+2005;Annual;KN.B1;Liberia;Average water footprint per unit value added;LR;LR;858.35436302
+2005;Annual;KN.B2;Luxembourg;Blue;LU;LU;0.33795925
+2005;Annual;KN.B1;New Zealand;Average water footprint per unit value added;NZ;NZ;2.8942751
+2005;Annual;KN.B1;Somalia;Average water footprint per unit value added;SO;SO;13.48762988
+2005;Annual;KN.B2;United States of America;Blue;US;US;4.88308055
+2005;Annual;KN.B3;Uzbekistan;Grey;UZ;UZ;393.46728143
+2005;Annual;KN.B2;Afghanistan;Blue;AF;AF;0.06194331
+2005;Annual;KN.B3;Afghanistan;Grey;AF;AF;1.17692296
+2005;Annual;KN.B1;Cyprus;Average water footprint per unit value added;CY;CY;1.21730431
+2005;Annual;KN.B2;Eritrea;Blue;ER;ER;0.28602868
+2005;Annual;KN.B2;Guatemala;Blue;GT;GT;2.78279597
+2005;Annual;KN.B2;Hungary;Blue;HU;HU;12.89937709
+2005;Annual;KN.B1;Japan;Average water footprint per unit value added;JP;JP;4.16731743
+2005;Annual;KN.B2;Congo, Dem Republic of;Blue;CD;CD;2.35199657
+2005;Annual;KN.B2;Dominican Republic;Blue;DO;DO;0.41455267
+2005;Annual;KN.B2;Italy;Blue;IT;IT;2.42096595
+2005;Annual;KN.B1;Malawi;Average water footprint per unit value added;MW;MW;114.19345077
+2005;Annual;KN.B2;Maldives;Blue;MV;MV;0.03419602
+2005;Annual;KN.B1;Myanmar;Average water footprint per unit value added;MM;MM;168.82272969
+2005;Annual;KN.B1;Sudan;Average water footprint per unit value added;SD;SD;80.79078317
+2005;Annual;KN.B1;Suriname;Average water footprint per unit value added;SR;SR;65.05302309
+2005;Annual;KN.B1;Trinidad and Tobago;Average water footprint per unit value added;TT;TT;14.41016783
+2005;Annual;KN.B1;Kyrgyzstan;Average water footprint per unit value added;KG;KG;594.99615642
+2005;Annual;KN.B3;Lesotho;Grey;LS;LS;78.49707235
+2005;Annual;KN.B2;Malawi;Blue;MW;MW;5.70967254
+2005;Annual;KN.B1;Netherlands;Average water footprint per unit value added;NL;NL;2.77767201
+2005;Annual;KN.B1;Nicaragua;Average water footprint per unit value added;NI;NI;28.01888989
+2005;Annual;KN.B3;Pakistan;Grey;PK;PK;159.68170496
+2005;Annual;KN.B2;Russian Federation;Blue;RU;RU;15.21672087
+2005;Annual;KN.B2;Singapore;Blue;SG;SG;0.16178711
+2005;Annual;KN.B1;Tajikistan;Average water footprint per unit value added;TJ;TJ;1383.51919371
+2005;Annual;KN.B1;Zimbabwe;Average water footprint per unit value added;ZW;ZW;276.42005033
+2005;Annual;KN.B3;Kenya;Grey;KE;KE;40.27440231
+2005;Annual;KN.B3;Austria;Grey;AT;AT;1.64508103
+2005;Annual;KN.B3;Bhutan;Grey;BT;BT;26.16423317
+2005;Annual;KN.B3;Botswana;Grey;BW;BW;10.49678248
+2005;Annual;KN.B2;Brazil;Blue;BR;BR;3.23771017
+2005;Annual;KN.B2;China;Blue;CN;CN;9.82323798
+2005;Annual;KN.B1;Czech Republic;Average water footprint per unit value added;CZ;CZ;14.45288664
+2005;Annual;KN.B3;Honduras;Grey;HN;HN;47.326796
+2005;Annual;KN.B1;Iceland;Average water footprint per unit value added;IS;IS;21.64547966
+2005;Annual;KN.B1;Latvia;Average water footprint per unit value added;LV;LV;18.51393218
+2005;Annual;KN.B2;Philippines;Blue;PH;PH;14.74936397
+2005;Annual;KN.B1;Slovakia;Average water footprint per unit value added;SK;SK;32.0189478
+2005;Annual;KN.B3;Sri Lanka;Grey;LK;LK;61.91810517
+2005;Annual;KN.B2;United Arab Emirates;Blue;AE;AE;0.08694883
+2005;Annual;KN.B1;Ireland;Average water footprint per unit value added;IE;IE;4.23796024
+2005;Annual;KN.B2;Panama;Blue;PA;PA;0.9900598
+2005;Annual;KN.B2;Sierra Leone;Blue;SL;SL;2.22932837
+2005;Annual;KN.B2;Tunisia;Blue;TN;TN;0.86330343
+2005;Annual;KN.B3;Ukraine;Grey;UA;UA;841.07300462
+2005;Annual;KN.B2;United Kingdom;Blue;GB;GB;0.94890467
